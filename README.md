@@ -1,8 +1,10 @@
 # Particle Cell Tower GPS Notes
 
-* Get a Google geolocation API key from [here[(https://developers.google.com/maps/documentation/geolocation/get-api-key)]]
+* Get a Google geolocation API key from [here](https://developers.google.com/maps/documentation/geolocation/get-api-key).
 
-* Make sure you *enable* the Geolocation API in the Google API Manager section of the Console
+* Make sure you *enable* the Geolocation API in the Google API Manager section of the Console.
+
+* The Goole geolocation API is described [here](https://developers.google.com/maps/documentation/geolocation/intro).
 
 Install the particle CLI with:
 ```bash
