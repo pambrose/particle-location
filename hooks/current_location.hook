@@ -1,0 +1,11 @@
+URL: A webhook.site URL
+
+JSON:
+{
+  "lattitude": "{{lat}}",
+  "longitude": "{{long}}",
+  "uncertainty": "{{unc}}",
+  "url": "{{url}}"
+}
+
+

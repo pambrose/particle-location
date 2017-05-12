@@ -1,0 +1,17 @@
+URL: https://www.googleapis.com/geolocation/v1/geolocate?key=API-KEY
+
+JSON:
+{
+  "cellTowers": [
+    {
+      "cellId": "{{id}}",
+      "locationAreaCode": "{{lac}}",
+      "mobileCountryCode": "{{mcc}}",
+      "mobileNetworkCode": "{{mnc}}"
+    }
+  ]
+}
+
+
+Response Template:
+{{location.lat}},{{location.lng}},{{accuracy}}
